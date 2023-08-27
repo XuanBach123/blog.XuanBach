@@ -23,7 +23,7 @@ body{
     /*border: 1px solid grey;*/
     display: flex;
     align-items: center;
-    background-color: black;
+    background-color: #2C2E3E;
 }
 
 .container{
@@ -128,7 +128,7 @@ aside{
 }
 
 .aside-item h2{
-    background-color: black;
+    background-color: #706C61;
     color: white;
     text-align: center;
     padding: 5px 0 ;
