@@ -166,7 +166,7 @@ aside{
 }
 #categorias-links ul li a {
     display: flex;
-    justify-content: space-between;
+    justify-content: left;
     text-decoration: none;
     color: black;
     padding: 5px 0;
