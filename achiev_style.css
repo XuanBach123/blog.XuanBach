@@ -134,22 +134,10 @@ aside{
         height: 300px;
     }
 
-    main,aside{
+    main{
         width: 95%;
         margin-left: auto;
         margin-right: auto;
     }
-    
-    .aside-item,.container-main article
-    {
-        margin-top: 15px;
-    }
-
-    .aside-item{margin-bottom: 15px;}
-
-    #sobreMim img {width: 200px; height: 200px;}
 }   
 
-#aside-item-contact {
-    padding-left: 15px;
-}
