@@ -69,7 +69,7 @@ body{
     background-image: url(img/anh_bia.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
 }
 
 .container-main{
