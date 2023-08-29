@@ -151,7 +151,7 @@ nav a:focus {
 }
 
 .current-page:hover {
-   opacity: 70%;
+       color: #94FC13;
 }
 
 .article-featured {
