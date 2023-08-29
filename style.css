@@ -23,6 +23,7 @@ body{
     display: flex;
     align-items: center;
     background-color: #272727;
+    z-index: 1;
 }
 
 .container{
