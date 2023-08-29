@@ -54,7 +54,7 @@ body{
     margin: 0px 10px;
     font-weight: 700;
 }
-#menu li a:hover {
+#menu li a :hover {
        color: #94FC13;
 }
 
