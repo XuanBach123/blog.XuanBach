@@ -51,6 +51,8 @@ body{
 #menu li a, #cabecalho a{
     text-decoration: none;
     color: #4BE3AC;
+    margin: 0px 10px;
+    font-weight: 700;
 }
 
 
