@@ -20,10 +20,10 @@ body{
     left: 0;
     width: 100%;
     min-height: 54px;
-    /*border: 1px solid grey;*/
     display: flex;
     align-items: center;
     background-color: #2C2E3E;
+    background-color: #272727;
 }
 
 .container{
@@ -51,7 +51,7 @@ body{
 
 #menu li a, #cabecalho a{
     text-decoration: none;
-    color: white;
+    color: #4BE3AC;
 }
 
 
@@ -109,8 +109,6 @@ aside{
     object-fit: cover;
 }
 
-
-
 .container-main article p{
     text-align: justify;
     text-indent: 5px;
@@ -129,8 +127,8 @@ aside{
 }
 
 .aside-item h2{
-    background-color: #706C61;
-    color: white;
+    background-color: #272727;
+    color: #4BE3AC;
     text-align: center;
     padding: 5px 0 ;
 }
