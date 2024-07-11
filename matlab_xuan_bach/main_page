@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <link rel = "icon" href = "img/weblogo.png" type = "image/x-icon">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Xuan Bach</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="slider.css">
+    </head>
+    <body>
+        <div class="wrapper">
+            <header id="cabecalho" style = "z-index: 1;">
+                <div class="container container-cabecalho">
+                     <a href = "#" style = "height: 54px;"> <img src="img/weblogo-wb.png" alt="" style = "height: 54px; width: auto;"></a>
+                    <nav>
+                        <ul id="menu">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#categorias-links-contact">Contact</a></li>
+                            <li><a href="certi.html">Achievements</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </header>
+            <section id="banner" style="
+    background-color: #333333>
+                <div class="container">
+            
+                </div>
+            </section>
+            <section>
+                <div class="container">
+                    <div class="container-main">
+                       
+                            <article>
+                                <h2>Solution for Time-independent_Schrodinger_equation (TISE) - Direct Matrix Method</h2>
+                              <p><a href="https://drive.google.com/file/d/1tkBPzneK-ZYMPe4UFEbtqYTbmOvXTNna/view?usp=sharing">Source code</a></p>
+                                <img src="main_solution_05.png" alt="">
+                            </article>
+                                                      
+            </section>
+            <footer>
+                <div class="container">
+                   <p><strong>Contact me by email to get the password!</a><strong></p>
+                </div>
+            </footer>
+        </div>
+    </body>
+
+<script src="slider.js"></script>
+                       
+</html>
